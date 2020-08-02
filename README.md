@@ -1,9 +1,11 @@
 # Spaces 2 Tabs
-### For Rails 6.0
 
+### For Rails 6.0
 It lets you convert spaces to tabs in your rails applications.
 It globs over directories and checks for spaces in the beginning of a file.
 It checks if the number of spaces is odd or not first, then it converts them to spaces:
+
+
 
 + \s\s => \t
 + \s\s\s\s => \t\t
