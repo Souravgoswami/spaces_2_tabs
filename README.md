@@ -26,4 +26,5 @@ Then it converts each line with a tab if they starts with 2 spaces.
 ---
 
 Test:
-	Run `rspec spec/test.rb`
+
+	`rspec spec/test.rb`
