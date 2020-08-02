@@ -1,4 +1,4 @@
-# indent_2_spaces_to_a_tab.rb
+# Spaces 2 Tabs
 ### For Rails 6.0
 
 It lets you convert spaces to tabs in your rails applications.
